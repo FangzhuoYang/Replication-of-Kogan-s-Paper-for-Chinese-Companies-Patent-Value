@@ -1,2 +1,2 @@
 # Replication-of-Kogan-s-Paper-for-Chinese-Companies-Patent-Value
-## This is a replication for part of Kogan et al.'s paper Technological Innovation, Resource Allocation and Growth published on The Quarterly Journal of Economics.
+## This is a replication for part of the main results in Kogan, L., Papanikolaou, D., Seru, A. and Stoffman, N., 2017. Technological innovation, resource allocation, and growth. Quarterly Journal of Economics, 132(2), pp. 665-712.. The original replication code is available at `https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Replication-Kit`.
